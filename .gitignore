@@ -1,0 +1,17 @@
+# Ambientes virtuais e dependências
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema e IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
