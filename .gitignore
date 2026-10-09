@@ -15,3 +15,7 @@ __pycache__/
 
 # Logs e arquivos temporários
 *.log
+
+# Arquivos de rascunho / especificações locais
+descricao.txt
+cabecalho.txt

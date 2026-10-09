@@ -1,8 +1,0 @@
-
-Preciso de um programa python que faça com que uma rede neural aprenda a jogar o jogo da cobrinha.
-
-O programa deve ter caráter educacional. A ideia é que uma GUI seja divida em duas partes: 1 delas com o jogo da cobrinha rodando e a segunda parte, mostrando a rede neural aprendendo (em funcionamento).
-
-O objetivo é que a rede neural aprenda a jogar e busque a maior eficiência possível no jogo, mantendo-se a cobrinha vida o maior tempo possível.
-
-Qualuer dúvida, pergunte-me antes de escrever o código por favor.
